@@ -1,0 +1,8 @@
+Lenguajes de programación:
+1. java
+2. js
+3. kotlin
+4. go
+7.ANGULAR
+8.ReactJS
+9.VueJS
